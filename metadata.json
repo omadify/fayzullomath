@@ -1,0 +1,6 @@
+{
+  "name": "Fayzullo Matematika Akademiyasi",
+  "description": "O‘zbekiston uchun professional, zamonaviy va ultra-premium matematika ta’lim platformasi: Ochiq platforma, O‘quvchi kabineti (LMS), Owner Super Admin paneli va Gemini AI matematika yordamchisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
